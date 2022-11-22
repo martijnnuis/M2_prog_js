@@ -4,7 +4,7 @@ class App
     {
         let appnaam = "discord";
         let versienummer = 0.9;
-        let versiedatum = 22-11-2022;
+        const versiedatum = new Date("2022/11/22") ;
         let autheur = "Martijn Nuis";
         let copyright = "Martijn Nuis";
         let distributeur = "henk Jan";
